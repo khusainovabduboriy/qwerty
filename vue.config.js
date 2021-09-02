@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/wish/'
+    publicPath: '/marvel/'
 }
